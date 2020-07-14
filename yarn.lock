@@ -689,6 +689,11 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
+"@groupher/emojilib@^2.4.0":
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/@groupher/emojilib/-/emojilib-2.4.0.tgz#3f301ff15d7b4f55d0d6a29edebbd89632c21d97"
+  integrity sha512-48h5pCW22/rPd3Cb6Ffjl2EMv6OhOfMutmot7ugpH34Rv/+SjuXzbdQMM+IAWECFZaGBz5FMkOequQZn5Ksmmg==
+
 "@jest/console@^24.7.1":
   version "24.7.1"
   resolved "https://registry.yarnpkg.com/@jest/console/-/console-24.7.1.tgz#32a9e42535a97aedfe037e725bd67e954b459545"
@@ -1482,11 +1487,6 @@ electron-to-chromium@^1.3.191:
   version "1.3.199"
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.199.tgz#f9a62a74cda77854310a2abffde8b75591ea09a1"
   integrity sha512-gachlDdHSK47s0N2e58GH9HMC6Z4ip0SfmYUa5iEbE50AKaOUXysaJnXMfKj0xB245jWbYcyFSH+th3rqsF8hA==
-
-emojilib@2.4.0:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/emojilib/-/emojilib-2.4.0.tgz#ac518a8bb0d5f76dda57289ccb2fdf9d39ae721e"
-  integrity sha512-5U0rVMU5Y2n2+ykNLQqMoqklN9ICBT/KsvC1Gz6vqHbz2AXXGkG+Pm5rMWk/8Vjrr/mY9985Hi8DYzn1F09Nyw==
 
 end-of-stream@^1.1.0:
   version "1.4.1"
