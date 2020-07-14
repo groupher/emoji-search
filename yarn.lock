@@ -689,10 +689,10 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@groupher/emojilib@2.4.1":
-  version "2.4.1"
-  resolved "https://registry.yarnpkg.com/@groupher/emojilib/-/emojilib-2.4.1.tgz#77754a6b63f7106ca3802797cdc05952731d7e19"
-  integrity sha512-oqLTUm5em/TAsY3vC7Z1Eni5xX15VIPm44jrquqdc8qEXVQHugeKCG6lrxdfH8ovBprpRhKGbNnNbZINWLoDow==
+"@groupher/emojilib@2.4.2":
+  version "2.4.2"
+  resolved "https://registry.yarnpkg.com/@groupher/emojilib/-/emojilib-2.4.2.tgz#5af686ae8569dc9527d11a4f1c33ca3cd887dd33"
+  integrity sha512-yjW+MCtXcgLLuHVmqJY97pje4cgkJgmnBe8nmJONrQC+56uIcTOPlT2joPeMJydgFPBzR31TLL70mJLr8o4bgw==
 
 "@jest/console@^24.7.1":
   version "24.7.1"
