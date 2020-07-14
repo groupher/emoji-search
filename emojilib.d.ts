@@ -7,6 +7,6 @@ type EmojiShape = {
   };
 };
 
-declare module "emojilib" {
+declare module "@groupher/emojilib" {
   const lib: EmojiShape;
 }

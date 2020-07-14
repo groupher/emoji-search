@@ -1,4 +1,4 @@
-import { lib } from "emojilib";
+import { lib } from "@groupher/emojilib";
 import matchSorter from "match-sorter";
 
 /* build proper library with included name of the emoji */
